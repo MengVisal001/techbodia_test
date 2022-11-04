@@ -39,3 +39,4 @@ npm run dev
 npm run build
 ```
 # techbodia_test
+# techbodia_test technology vue.jg
